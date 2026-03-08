@@ -1,7 +1,20 @@
 ## Olá 👋
-Sou um estudante de IA — Generativa, ML e Deep Learning.
-Também sou Desenvolvedor de Software e crio sites e apps com IA
-📍 Brasil · 🤖 AI Builder · 📚 Sempre estudando
+
+Sou um estudante de IA — Generativa, ML e Deep Learning. 🤖
+
+Adoro criar soluções inovadoras com IA.
+
+Utilizo ferramentas de IA para acelerar o desenvolvimento de vários projetos:
+
+-Sites animados
+
+-Dashboards inteligentes
+
+-E diversas outras coisas...
+
+Planejo criar cada vez mais soluções e tecnologias,
+melhorando cada dia mais! 🚀
+
 
 <!--
 **pietropaolodecicco-hub/pietropaolodecicco-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
