@@ -1,6 +1,6 @@
 ## Olá 👋
 
-Sou um estudante de IA Generativa e Desenvolvimento de Software com IA 🤖
+Sou um estudante de IA Generativa e Desenvolvimento de Software com IA  🤖
 
 Adoro criar soluções inovadoras com IA.
 
