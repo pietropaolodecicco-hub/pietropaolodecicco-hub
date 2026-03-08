@@ -1,4 +1,7 @@
-## Hi there 👋
+## Olá 👋
+Sou um estudante de IA — Generativa, ML e Deep Learning.
+Também sou Desenvolvedor de Software e crio sites e apps com IA
+📍 Brasil · 🤖 AI Builder · 📚 Sempre estudando
 
 <!--
 **pietropaolodecicco-hub/pietropaolodecicco-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
